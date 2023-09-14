@@ -1,4 +1,4 @@
-# Wordle Solver README
+# Word Solver README
 
 ## Introduction
 This program is designed to assist you in finding all possible word solutions for your 9 by 9 grid in the `words.txt` file. You can add all the possible words for the given grid by using this tool. Please note that using a large word file like the one provided in [dwyl/english-words](https://github.com/dwyl/english-words) may impact the program's speed, but this issue will be addressed in version 0.2.
